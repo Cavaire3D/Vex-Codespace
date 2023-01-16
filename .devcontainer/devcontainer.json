@@ -1,0 +1,5 @@
+{
+  "image": "cr.microsoft.com/acoustics/baketools:3.0.Linux",
+  "features": {
+  }
+}
